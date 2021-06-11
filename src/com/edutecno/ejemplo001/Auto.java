@@ -2,7 +2,7 @@ package com.edutecno.ejemplo001;
 
 /***
  * Comentario
- * @author Administrator.
+ * @author Administrator...
  *
  */
 public class Auto extends Vehiculo {
